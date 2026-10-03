@@ -1,0 +1,12 @@
+# Backend
+backend/.env
+backend/node_modules/
+
+# Frontend
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+# System files
+desktop.ini
+.DS_Store
